@@ -1,12 +1,37 @@
 {
-  "name": "v3",
+  "name": "node-jiveV3-api",
+  "description": "v3 API javascript wrappers for jive",
+  "version": "0.0.1",
   "main": "./api.js",
-  "dependencies": {
-	"jquery" : "1.8.3",
-	"jive-sdk" : "*"
+  "author": {
+    "name": "Jive Software",
+    "email": "jivedev@jivesoftware"
   },
+  "dependencies": {
+    "jive-sdk" : "*",
+    "jquery" : "1.8.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "contributors": [
+    {
+      "name": "Aron Racho",
+      "email": "aron.racho@jivesoftware.com"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/jivesoftware/node-jiveV3-api"
-  }
+  },
+  "keywords": [
+    "jive",
+    "framework",
+    "app",
+    "purposeful_places",
+    "api"
+  ]
 }
+
