@@ -1,5 +1,5 @@
 {
-  "name": "node-jiveV3-api",
+  "name": "node-jivev3-api",
   "description": "v3 API javascript wrappers for jive",
   "version": "0.0.1",
   "main": "./api.js",
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jivesoftware/node-jiveV3-api"
+    "url": "git://github.com/jivesoftware/node-jivev3-api"
   },
   "keywords": [
     "jive",
